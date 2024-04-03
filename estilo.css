@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;/*forma da letra*/ 
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: rgb(223, 1, 175);/*tag cor do cabeçalho*/
+}
+
+p{
+    color: #666;
+
+}
+
+button{
+    background-color: #007;/*tela de fundo*/
+    color: white;
+    padding: 10px 20px;/*preenchimento e medidas*/
+    border: none;/*borda no boão*/
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {/*efeito do mouse com o botão*/
+    background-color: #0056b3;
+}
